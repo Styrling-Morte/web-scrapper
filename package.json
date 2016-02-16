@@ -1,0 +1,19 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "This module is designed to make HTTP GET requests to remote web pages and download their HTML. It then (using another module) parses the HTML and writes the content we are interested in to a file on disk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "webscrapper"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Styrling-Morte/web-scrapper.git"
+  },
+  "author": "Scott McPhee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Styrling-Morte/web-scrapper/issues"
+  },
+  "homepage": "https://github.com/Styrling-Morte/web-scrapper#readme"
+}
