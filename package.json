@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Styrling-Morte/web-scrapper/issues"
   },
-  "homepage": "https://github.com/Styrling-Morte/web-scrapper#readme"
+  "homepage": "https://github.com/Styrling-Morte/web-scrapper#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0"
+  }
 }
